@@ -1,0 +1,7 @@
+﻿out/
+book.db
+shop.db
+*.class
+.idea/
+*.iml
+.DS_Store
